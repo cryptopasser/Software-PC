@@ -1,0 +1,6 @@
+How to properly install and activate the program:
+1. Apply the registry patch (Crack.reg)
+2. Start Primo RAMDisk.exe and complete the installation.
+3. Run the program and enjoy!
+
+Thank you for downloading from Enderman's website ^_^

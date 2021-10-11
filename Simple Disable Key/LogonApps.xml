@@ -1,0 +1,10 @@
+<logon_screen_launcher>
+  <options sleep_milliseconds_after_logoff="5000" />
+  <logging enabled="true" path="C:\Temp\_Logon Screen Launcher.log" />
+  <applications>
+    <application path="C:\Program Files (x86)\4dots Software\Simple Disable Key\SimpleDisableKeyKeyDisabler.exe">
+      <start service_start="true" service_stop="false" logon="false" logoff="true" display_lock="true" display_unlock="false" />
+      <stop service_start="false" service_stop="true" logon="true" logoff="false" display_lock="false" display_unlock="true" />
+    </application>
+  </applications>
+</logon_screen_launcher>

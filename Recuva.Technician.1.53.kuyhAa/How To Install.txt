@@ -1,0 +1,19 @@
+HOW TO USE
+================================================================================
+
+Keygen.zip Password is:123
+0. Disable antivirus if needed [Mostly it's not needed].
+1. Install Program "rcsetup153.exe" (remove any previous patch/Install).
+2. Run "Piriform LicGen.exe" and select Defraggler v2 under select App.
+3. Click "Generate Key and Patch Host" & Copy & Past the Key Generated to Recuva Advance mode -> options -> About.
+4. Done, enjoy the Software.
+
+================================================================================
+
+
+
+
+Atau Edit “host” Windows/System32/drivers/etc/hosts
+tambahkannya baris ini di bawah nya :
+
+127.0.0.1 license.piriform.com

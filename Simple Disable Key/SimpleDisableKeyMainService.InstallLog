@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Program Files (x86)\4dots Software\Simple Disable Key\SimpleDisableKeyMainService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Program Files (x86)\4dots Software\Simple Disable Key\SimpleDisableKeyMainService.exe
+   logfile = C:\Program Files (x86)\4dots Software\Simple Disable Key\SimpleDisableKeyMainService.InstallLog
+Installing service Simple Disable Key Main Service...
+Service Simple Disable Key Main Service has been successfully installed.
+Creating EventLog source Simple Disable Key Main Service in log Application...
+Committing assembly 'C:\Program Files (x86)\4dots Software\Simple Disable Key\SimpleDisableKeyMainService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Program Files (x86)\4dots Software\Simple Disable Key\SimpleDisableKeyMainService.exe
+   logfile = C:\Program Files (x86)\4dots Software\Simple Disable Key\SimpleDisableKeyMainService.InstallLog
