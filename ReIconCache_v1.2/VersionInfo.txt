@@ -1,0 +1,20 @@
+Produced by : BlueLife § velociraptor
+www.sordum.org
+
+##########  Rebuild Shell Icon Cache v1.2  ##################
+Release date: 2019.10.15
+
+1. [ ADDED ] - Command Line Options
+2. [ ADDED ] - 64 bit version
+3. [ FIXED ] - Some minor BUGS
+
+##########  Rebuild Shell Icon Cache v1.1  ##################
+Release date: 2013.11.20
+
+1. [ FIXED ] - Some minor BUGS
+
+##########  Rebuild Shell Icon Cache v1.0  ##################
+Release date: 2013.07.30
+
+Sometimes windows explorer don't show program icons correctly, you can use the ReIconCache.exe to correct them.
+

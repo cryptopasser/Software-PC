@@ -1,0 +1,43 @@
+Produced by : BlueLife § velociraptor
+www.sordum.org
+
+##########  Reduce Memory v1.5  ##################
+Release date: Friday 19th March 2021
+
+1. [ ADDED ] - Language Support
+2. [ ADDED ] - Automatic optimization feature
+3. [ ADDED ] - Tray icon changing feature
+4. [ FIXED ] - Minor BUGS
+
+##########  Reduce Memory v1.4  ##################
+Release date: 2021.01.01
+
+1. [ ADDED ] - Feature to exclude some Applications (Under Options)
+2. [ ADDED ] - Exclude some Applications Cmd support
+3. [ ADDED ] - Ability to show the ram status on taskbar icon
+4. [ FIXED ] - GUI font is too small (Interface font has been enlarged)
+5. [ ADDED ] - Some code improvements
+
+##########  Reduce Memory v1.3  ##################
+Release date: 2019.11.07
+
+1. [ ADDED ] - Timer function
+2. [ ADDED ] - 64 bit version
+3. [ ADDED ] - Automatically start at windows startup
+4. [ ADDED ] - Hide window on startup,Minimize to system try,Show "ReduceMemory" Always on top 
+
+##########  Reduce Memory v1.2  ##################
+Release date: 2018.03.05
+
+1. [ ADDED ] - GUI
+
+##########  Reduce Memory v1.1  ##################
+Release date: 2013.11.20
+
+1. [ FIXED ] - Some minor BUGS
+
+
+##########  Reduce Memory v1.0  ##################
+Release date: 2013.04.08
+
+A simple tool to Free up memory quickly and optimize RAM , NO GUI one click usage
