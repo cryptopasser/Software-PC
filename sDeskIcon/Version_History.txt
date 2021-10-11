@@ -1,0 +1,15 @@
+Produced by : BlueLife § velociraptor
+www.sordum.org
+
+##########  Show Desktop Icons v1.1  ##################
+Release date: 2019.11.14
+
+1. [ ADDED ] - Command line option
+2. [ ADDED ] - 64 bit version
+3. [ ADDED ] - Coding improvements
+
+
+##########  Show Desktop Icons v1.0  ##################
+Release date: 2016.02.09
+
+Show desktop icon is very Little tool to Add or hide common icons ( Computer, User's Files, Network, Recycle Bin, Control Panel,Internet Explorer) on the desktop , it is a Portable freeware
