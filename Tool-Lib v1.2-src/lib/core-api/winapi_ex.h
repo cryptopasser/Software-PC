@@ -1,0 +1,13 @@
+#ifndef H_WINAPI_EX
+#define H_WINAPI_EX
+
+#ifndef ENABLE_QUICKEDIT_MODE
+#define ENABLE_QUICKEDIT_MODE 0x0040
+#endif
+#ifndef ENABLE_EXTENDED_FLAGS
+#define ENABLE_EXTENDED_FLAGS 0x0080
+#endif
+
+#endif
+
+
