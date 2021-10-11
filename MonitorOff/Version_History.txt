@@ -1,0 +1,21 @@
+Author: BlueLife , Velociraptor
+www.sordum.org
+
+###################--Sordum Monitor off v1.1 --###################
+Release date: 2019.11.20
+
+What is New
+
+1. [Fixed] - The Laptop screen turns on automatically after a certain time
+2. [Added] - Block keyboard When Screen Turns Off
+3. [Added] - Block Mouse When Screen Turns Off
+4. [Added] - Mute Sound When Screen Turns Off
+5. [Added] - Automatically start with windows startup
+6. [Added] - Create a shortcut to the desktop
+7. [Added] - More cmd Parameter support
+8. [Added] - 64 bit version
+
+###################--Sordum Monitor off v1.0 --###################
+Release date: 2017.08.29
+
+A Simple portable Freeware tool to turn off screen
