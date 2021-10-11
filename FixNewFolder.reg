@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Folder]
+@="Folder"
+"EditFlags"=hex:d2,03,00,00
+"FullDetails"="prop:System.PropGroup.Description;System.ItemNameDisplay;System.ItemType;System.Size"
+"ThumbnailCutoff"=dword:00000000
+"TileInfo"="prop:System.Title;System.PropGroup.Description;System.ItemType"
+
+[HKEY_CLASSES_ROOT\Folder\DefaultIcon]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,73,00,68,00,\
+  65,00,6c,00,6c,00,33,00,32,00,2e,00,64,00,6c,00,6c,00,2c,00,33,00,00,00
+
+[HKEY_CLASSES_ROOT\Folder\shell]
+@=-
+
+[HKEY_CLASSES_ROOT\Folder\shell\explore]
+"MultiSelectModel"="Document"
+"BrowserFlags"=dword:00000022
+"ExplorerFlags"=dword:00000021
+
+[HKEY_CLASSES_ROOT\Folder\shell\explore\command]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,45,00,78,00,70,00,6c,00,6f,00,72,00,65,00,72,00,2e,00,65,00,78,00,\
+  65,00,20,00,2f,00,73,00,65,00,70,00,61,00,72,00,61,00,74,00,65,00,2c,00,2f,\
+  00,65,00,2c,00,2f,00,69,00,64,00,6c,00,69,00,73,00,74,00,2c,00,25,00,49,00,\
+  2c,00,25,00,4c,00,00,00
+"DelegateExecute"="{11dbb47c-a525-400b-9e80-a54615a090c0}"
+
+[HKEY_CLASSES_ROOT\Folder\shell\open]
+"MultiSelectModel"="Document"
+"BrowserFlags"=dword:00000010
+"ExplorerFlags"=dword:00000012
+
+[HKEY_CLASSES_ROOT\Folder\shell\open\command]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,45,00,78,00,70,00,6c,00,6f,00,72,00,65,00,72,00,2e,00,65,00,78,00,\
+  65,00,20,00,2f,00,73,00,65,00,70,00,61,00,72,00,61,00,74,00,65,00,2c,00,2f,\
+  00,69,00,64,00,6c,00,69,00,73,00,74,00,2c,00,25,00,49,00,2c,00,25,00,4c,00,\
+  00,00
+"DelegateExecute"="{11dbb47c-a525-400b-9e80-a54615a090c0}"
+
+[HKEY_CLASSES_ROOT\Folder\shellex\ContextMenuHandlers\BriefcaseMenu]
+@="{85BBD920-42A0-1069-A2E4-08002B30309D}"
+
+[HKEY_CLASSES_ROOT\Folder\shellex\ContextMenuHandlers\Offline Files]
+@="{474C98EE-CF3D-41f5-80E3-4AAB0AB04301}"
+
+[HKEY_CLASSES_ROOT\Folder\shellex\DragDropHandlers\{BD472F60-27FA-11cf-B8B4-444553540000}]
+@=""
+
+[HKEY_CLASSES_ROOT\Folder\shellex\PropertySheetHandlers\BriefcasePage]
+@="{85BBD920-42A0-1069-A2E4-08002B30309D}"
+
+[HKEY_CLASSES_ROOT\Folder\shellex\PropertySheetHandlers\Offline Files]
+@="{7EFA68C6-086B-43e1-A2D2-55A113531240}"
+
+[HKEY_CLASSES_ROOT\Folder\ShellNew]
+"Directory"=""
+"IconPath"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,73,\
+  00,68,00,65,00,6c,00,6c,00,33,00,32,00,2e,00,64,00,6c,00,6c,00,2c,00,33,00,\
+  00,00
+"ItemName"="@shell32.dll,-30396"
+"MenuText"="@shell32.dll,-30317"
+"NonLFNFileSpec"="@shell32.dll,-30319"
+
+[HKEY_CLASSES_ROOT\Folder\ShellNew\Config]
+"AllDrives"=""
+"IsFolder"=""
+"NoExtension"=""
