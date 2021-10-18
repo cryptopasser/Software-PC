@@ -1,5 +1,7 @@
 # Software-PC
 
-SAFE SOFTWARE NOT CONTAIN MALWARE
+# a collection of PC software that is useful in everyday life
 
-If You Dont Trust This Software Dont Install And For Save Plz Scan In https://virustotal.com
+# Does not contain viruses and malware
+
+# Download software that only you know, don't download what you don't know its function
